@@ -1,0 +1,3 @@
+SELECT *
+FROM Reservaciones
+WHERE FechaEntrada BETWEEN '2025-12-01' AND '2025-12-10';
